@@ -26,7 +26,7 @@
 ### Worldwide income information by city
 
 
-##Analysis
+## Analysis
 
 ### Import and format datasets
 
@@ -34,7 +34,7 @@
 
 ### Develop plots and dashboards
 
-1. # of Starbucks per city per population
+1. Number of Starbucks per city per population
 2. Income per city
 3. Avg income per starbucks per city
 4. Chart/Scatter plot of locations vs. #3 (will determine which cities have too many or too few Starbucks
