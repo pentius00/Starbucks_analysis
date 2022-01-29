@@ -1,5 +1,11 @@
 # PROJECT: Starbucks Locations Analysis
 
+## Team:
+- Enrique Briceno
+- Chad Burford
+- Erik McFarlane
+- Diego Torres
+
 ## GOALS:
 
 1. Find US data for all Starbucks locations
