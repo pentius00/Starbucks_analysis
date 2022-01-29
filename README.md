@@ -1,13 +1,13 @@
 # PROJECT: Starbucks Locations Analysis
 
-# GOALS:
+## GOALS:
 
 1. Find US data for all Starbucks locations
 2. Find US census information (total population, population density, income) by city
 3. Find Min/Max/Avg/StD. for Starbucks locations versus census information
 4. Based on #3 determine top underserved and overserved locations on a per capita/income basis
 
-# TASKS:
+## TASKS:
 
 <ol>
   <li>Develop Readme File</li>
@@ -30,6 +30,7 @@
     </ol>
   </ol> 
 </ol> 
-# References
+
+## References
 <ul>
   <li></li>
