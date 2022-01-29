@@ -21,24 +21,19 @@
     <li>U.S. population census information by city</li>
     <li>U.S. income information by city</li>
   </ol>
-</ol> 
-
-
-
-## Analysis
-
-<ol>
-  <li>Import and format datasets</li>
-  <li>Calculate Min/Max/Avg/StD. for datasets</li>
-  <li>Develop plots and dashboards</li>
+  <li>Analysis</li>
   <ol>
-    <li>Number of Starbucks per city per population</li>
-    <li>Avg income per starbucks per city</li>
-    <li>U.S. income information by city</li>
-    <li>Chart/Scatter plot of locations vs. #3 (will determine which cities have too many or too few Starbucks</li>
-  </ol>
+    <li>Import and format datasets</li>
+    <li>Calculate Min/Max/Avg/StD. for datasets</li>
+    <li>Develop plots and dashboards</li>
+    <ol>
+      <li>Number of Starbucks per city per population</li>
+      <li>Avg income per starbucks per city</li>
+      <li>U.S. income information by city</li>
+      <li>Chart/Scatter plot of locations vs. #3 (will determine which cities have too many or too few Starbucks</li>
+    </ol>
+  </ol> 
 </ol> 
-
 ## References
 <ul>
   <li></li>
