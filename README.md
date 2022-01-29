@@ -1,9 +1,9 @@
-#PROJECT:
+# PROJECT:
 
 - Starbucks Locations Analysis
 
 
-#GOALS:
+# GOALS:
 
 1. Find Worldwide data for all Starbucks locations
 2. Find Worldwide census information (total population, population density, income) by city
@@ -11,7 +11,7 @@
 4. Based on #3 determine top underserved and overserved locations
 
 
-#TASKS:
+# TASKS:
 
 ## Develop Readme File
 
@@ -34,7 +34,7 @@
 
 ### Develop plots and dashboards
 
-	1. # of Starbucks per city per population
-	2. Income per city
-	3. Avg income per starbucks per city
-	4. Chart/Scatter plot of locations vs. #3 (will determine which cities have too many or too few Starbucks
+1. # of Starbucks per city per population
+2. Income per city
+3. Avg income per starbucks per city
+4. Chart/Scatter plot of locations vs. #3 (will determine which cities have too many or too few Starbucks
