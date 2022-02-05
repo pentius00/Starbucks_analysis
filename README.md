@@ -1,7 +1,6 @@
 # PROJECT: Starbucks Locations Analysis
 
 ## Team:
-- Enrique Briceno
 - Chad Burford
 - Erik McFarlane
 - Diego Torres
@@ -13,14 +12,26 @@
 3. Find Min/Max/Avg/StD. for Starbucks locations versus census information
 4. Based on #3 determine top underserved and overserved locations on a per capita/income basis
 
-## TASKS:
+## Code Approach:
 
 <ol>
-  <li>Develop Readme File</li>
-  <li>Find Datasets:</li>
+  <li>Import relevant libraries</li>
+  <li>Import datasets</li>
   <ol>
-    <li>Starbucks location information</li>
-    <li>U.S. population census information by city</li>
+    <li>Starbucks dataset</li>
+    <li>
+        <ul>Convert dataset into a Dataframe</li>
+          <li>Sanitize dataset (drop unnecessary columns)</li>
+          <li>Filter unnecessary values</li>
+          <li>Make relevant groupings in order to: get number of stores for each city and get the cities' Latitude/Longitude</li>
+          <li>Merge grouby results into Dataframe that will be merge with </li>
+      </ul>
+    <li>U.S. income information by city</li>
+  </ol>
+  <ol>
+    <li>Sanitize datasets (drop unnecessary columns)</li>
+    <li><ol>Make relevant groupings in order to: get number of stores for each city and get the cities Latitude/Longitude</ol></li>
+        <li>
     <li>U.S. income information by city</li>
   </ol>
   <li>Analysis</li>
@@ -36,6 +47,7 @@
     </ol>
   </ol> 
 </ol> 
+## Data Analysis Findings
 
 ## Dataset References
 <ul>
