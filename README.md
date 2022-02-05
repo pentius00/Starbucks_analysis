@@ -18,7 +18,7 @@
   <li>Import relevant libraries</li>
   <li>Import datasets</li>
   <ol>
-    <li>Starbucks dataset <i>('Data_Files/starbucks_locations.csv.txt'</i></li>
+    <li>Starbucks dataset <i>('Data_Files/starbucks_locations.csv.txt')</i></li>
       <ul><li>Convert dataset into a Dataframe</li>
           <li>Sanitize dataset (drop unnecessary columns)</li>
           <li>Filter unnecessary values</li>
@@ -29,9 +29,17 @@
       <ul><li>Convert dataset into a Dataframe</li>
           <li>Sanitize dataset (drop unnecessary columns)</li>
           <li>Filter unnecessary values</li>
+          <li>Homogeonize column names to merge with Starbucks datafram</li>
+          <li>Merge with Starbucks dataframe</li>
+      </ul>
+    <li> U.S. income population by city <i>('Data_Files/us population with cordinates.csv.txt')</i></li>
+      <ul><li>Convert dataset into a Dataframe</li>
+          <li>Sanitize dataset (drop unnecessary columns)</li>
+          <li>Filter unnecessary values</li>
           <li>Make relevant groupings in order to: get number of stores for each city and get the cities' Latitude/Longitude</li>
           <li>Merge grouby results into Dataframe that will be merged with other datasets</li>
-      </ul>
+      </ul>    
+  </ol>
     
   <li>Analysis</li>
   <ol>
