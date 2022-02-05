@@ -18,21 +18,21 @@
   <li>Import relevant libraries</li>
   <li>Import datasets</li>
   <ol>
-    <li>Starbucks dataset</li>
+    <li>Starbucks dataset <i>('Data_Files/starbucks_locations.csv.txt'</i></li>
       <ul><li>Convert dataset into a Dataframe</li>
           <li>Sanitize dataset (drop unnecessary columns)</li>
           <li>Filter unnecessary values</li>
           <li>Make relevant groupings in order to: get number of stores for each city and get the cities' Latitude/Longitude</li>
-          <li>Merge grouby results into Dataframe that will be merge with </li>
+          <li>Merge grouby results into Dataframe that will be merged with other datasets</li>
       </ul>
-    <li>U.S. income information by city</li>
-  </ol>
-  <ol>
-    <li>Sanitize datasets (drop unnecessary columns)</li>
-    <li><ol>Make relevant groupings in order to: get number of stores for each city and get the cities Latitude/Longitude</ol></li>
-        <li>
-    <li>U.S. income information by city</li>
-  </ol>
+    <li> U.S. income information by city <i>('Data_Files/kaggle_income.csv')</i></li>
+      <ul><li>Convert dataset into a Dataframe</li>
+          <li>Sanitize dataset (drop unnecessary columns)</li>
+          <li>Filter unnecessary values</li>
+          <li>Make relevant groupings in order to: get number of stores for each city and get the cities' Latitude/Longitude</li>
+          <li>Merge grouby results into Dataframe that will be merged with other datasets</li>
+      </ul>
+    
   <li>Analysis</li>
   <ol>
     <li>Import and format datasets</li>
