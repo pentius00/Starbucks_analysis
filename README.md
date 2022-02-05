@@ -19,7 +19,7 @@
   <li>Import datasets</li>
   <ol>
     <li>Starbucks dataset</li>
-      <ul>Convert dataset into a Dataframe</li>
+      <ul><li>Convert dataset into a Dataframe</li>
           <li>Sanitize dataset (drop unnecessary columns)</li>
           <li>Filter unnecessary values</li>
           <li>Make relevant groupings in order to: get number of stores for each city and get the cities' Latitude/Longitude</li>
