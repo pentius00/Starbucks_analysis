@@ -29,23 +29,23 @@
       <ul><li>Convert dataset into a Dataframe</li>
           <li>Sanitize dataset (drop unnecessary columns)</li>
           <li>Filter unnecessary values</li>
-          <li>Homogeonize column names to merge with Starbucks datafram</li>
+          <li>Homogenize column names to merge with Starbucks dataframe</li>
           <li>Merge with Starbucks dataframe</li>
       </ul>
     <li> U.S. income population by city <i>('Data_Files/us population with cordinates.csv.txt')</i></li>
       <ul><li>Convert dataset into a Dataframe</li>
           <li>Sanitize dataset (drop unnecessary columns)</li>
           <li>Filter unnecessary values</li>
-          <li>Make relevant groupings in order to: get number of stores for each city and get the cities' Latitude/Longitude</li>
-          <li>Merge grouby results into Dataframe that will be merged with other datasets</li>
+          <li>Homogenize column names to merge with combined Income/Starbucks dataframe</li>
+          <li>Merge grouby results into final combined Dataframe</li>
       </ul>    
-  </ol>
-    
+  </ol>    
   <li>Analysis</li>
   <ol>
-    <li>Import and format datasets</li>
-    <li>Calculate Min/Max/Avg/StD. for datasets</li>
-    <li>Develop plots and dashboards</li>
+    <li>Create scatter plots 
+    <li>Create map "heat" plots</li>
+    <li>Create standard deviation plot</li>
+    <li>Combine plots into an interactive dashboard</li>
     <ol>
       <li>Number of Starbucks per city per population</li>
       <li>Avg income per starbucks per city</li>
