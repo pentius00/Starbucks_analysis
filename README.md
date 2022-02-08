@@ -44,6 +44,7 @@
   <ol>
     <li>Create scatter plots 
     <li>Create map "heat" plots</li>
+    	![Store Location "Heat map"](https://github.com/pentius00/Starbucks_analysis/blob/main/map_locations_data.png)
     <li>Create standard deviation plot</li>
     <li>Combine plots into an interactive dashboard</li>
     <ol>
