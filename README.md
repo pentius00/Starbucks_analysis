@@ -42,9 +42,9 @@
   </ol>    
   <li>Analysis</li>
   <ol>
-    <li>Create scatter plots 
+    <li>Create scatter plots  <img title="Scatter Plot" alt="scatter plot" src="https://github.com/pentius00/Starbucks_analysis/blob/main/populaton_store_count_chart.png">
     <li>Create map "heat" plots <img title="Starbucks Heat Map" alt="Heat Map" src="https://github.com/pentius00/Starbucks_analysis/blob/main/map_locations_data.png">
-    <li>Create standard deviation plot</li>
+    <li>Create standard deviation plot</li>  <img title="Standard Deviation Plot" alt="STD plot" src="https://github.com/pentius00/Starbucks_analysis/blob/main/store_count_std.png">
     <li>Combine plots into an interactive dashboard</li>
     <ol>
       <li>Number of Starbucks per city per population</li>
@@ -53,9 +53,4 @@
       <li>Chart/Scatter plot of locations vs. #3 (will determine which cities have too many or too few Starbucks</li>
     </ol>
   </ol> 
-</ol> 
-## Data Analysis Findings
-
-## Dataset References
-<ul>
-  <li></li>
+</ol>  
