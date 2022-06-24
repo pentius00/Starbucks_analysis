@@ -1,4 +1,4 @@
-# PROJECT: Starbucks Locations Analysis
+# Starbucks Locations Analysis
 
 ## Team:
 - Chad Burford
